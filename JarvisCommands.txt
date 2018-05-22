@@ -1,0 +1,13 @@
+open file manager
+open browser
+close browser
+close file manager
+terminate program
+open steam
+close steam
+open battle net
+close battle net
+open command prompt
+close command prompt
+jarvis
+take a break jarvis
